@@ -40,5 +40,7 @@ Multinomial Naive Bayes - Classic baseline for text classification
 ### Detailed Evaluation:
 ![Model evaluation](screenshots/data_report.png)
 ### Accuracy comparison
-![accuracy comparison]()
+![accuracy comparison](screenshots/data_bar.png)
+### Confusion matrix
+![confusion matrix]()
 
