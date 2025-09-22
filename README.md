@@ -22,8 +22,21 @@ Financial institutions receive thousands of consumer complaints daily. Automatin
 ### Percentage for class imbalance across categories:
 ![Class imbalance](screenshots/data_cat.png)
 - To overcome this problem Synthetic Minority Oversampling Technique (SMOTE) is used
-### SMOTE is applied to Training set 
+### SMOTE is applied to Training set:
 ![Class imbalance](screenshots/data_smote.png)
 # Technical Implementation
-### Text pre processing
-![Text preprocess]()
+### Text pre processing:
+![Text preprocess](screenshots/data_cleaning_text.png)
+### Feature Engineering
+- Text Cleaning: Comprehensive NLP preprocessing
+- TF-IDF Vectorization: 5,000 most important features
+- Stratified Sampling: Maintained class proportions in train/test splits
+### Model Selection
+Model Selection Strategy
+These selected two models are specifically suited for text classification:
+Logistic Regression - Optimal for high-dimensional text data
+Multinomial Naive Bayes - Classic baseline for text classification
+# Model Performance
+### Detailed Evaluation:
+![Model evaluation]()
+
