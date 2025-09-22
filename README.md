@@ -38,5 +38,7 @@ Logistic Regression - Optimal for high-dimensional text data
 Multinomial Naive Bayes - Classic baseline for text classification
 # Model Performance
 ### Detailed Evaluation:
-![Model evaluation]()
+![Model evaluation](screenshots/data_report.png)
+### Accuracy comparison
+![accuracy comparison]()
 
