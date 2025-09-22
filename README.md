@@ -14,3 +14,8 @@ Financial institutions receive thousands of consumer complaints daily. Automatin
 - Final cleaned data: 1,17,590 complaints with complete narratives
 ### Initial data shape
 ![Data Overview](screenshots/data_shape.png)
+### Dataset structure
+![Data Overview](screenshots/data_head.png)
+# Class distribution challenge
+### Visualization shows severe class imbalance across categories
+![Class imbalance]()
