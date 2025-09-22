@@ -42,5 +42,8 @@ Multinomial Naive Bayes - Classic baseline for text classification
 ### Accuracy comparison
 ![accuracy comparison](screenshots/data_bar.png)
 ### Confusion matrix
-![confusion matrix]()
-
+![confusion matrix](screenshots/data_confusion_matrix.png)
+# Prediction system
+The system successfully classifies real world consumer complaints
+### Prediction system examples
+![prediction system]()
