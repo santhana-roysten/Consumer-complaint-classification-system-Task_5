@@ -49,6 +49,5 @@ These selected two models are specifically suited for text classification:
 ### Prediction system examples:
 ![prediction system](screenshots/data_prediction.png)
 # Conclusion
-This project successfully demonstrates automated consumer complaint classification with 91% accuracy using Logistic Regression. The system effectively handles severe class imbalance and establishes a strong baseline for text classification tasks.
-Future enhancements could include experimenting with deep learning models, incorporating advanced NLP techniques such as transformers, and deploying the model for real-time complaint resolution. This project can serve as a foundation for organizations seeking to streamline consumer complaint management through machine learning.
+This project demonstrates that automated classification of consumer financial complaints into regulatory categories can be achieved with 91% accuracy using Logistic Regression, even in the presence of severe class imbalance. The use of SMOTE for oversampling, combined with TF-IDF vectorization and stratified sampling, helped build a robust model that outperforms baseline approaches like Multinomial Naive Bayes.
 
