@@ -12,12 +12,13 @@ Financial institutions receive thousands of consumer complaints daily. Automatin
 - Dataset size: 15 Lakhs or 1.5 million complaints
 - Time period: 3 month data
 - Final cleaned data: 1,17,590 complaints with complete narratives
-### Initial data shape
+### Initial data shape:
 ![Data Overview](screenshots/data_shape.png)
-### Dataset structure
+### Dataset structure:
 ![Data Overview](screenshots/data_head.png)
-# Class distribution challenge
-### Visualization shows severe class imbalance across categories
+# Class distribution challenge:
+### Visualization shows severe class imbalance across categories:
 ![Class imbalance](screenshots/data_distriu_graph.png)
-### Percentage for class imbalance across categories
-![Class imbalance]()
+### Percentage for class imbalance across categories:
+![Class imbalance](screenshots/data_cat.png)
+- To overcome this problem Synthetic Minority Oversampling Technique (SMOTE) is used 
