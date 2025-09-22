@@ -21,4 +21,9 @@ Financial institutions receive thousands of consumer complaints daily. Automatin
 ![Class imbalance](screenshots/data_distriu_graph.png)
 ### Percentage for class imbalance across categories:
 ![Class imbalance](screenshots/data_cat.png)
-- To overcome this problem Synthetic Minority Oversampling Technique (SMOTE) is used 
+- To overcome this problem Synthetic Minority Oversampling Technique (SMOTE) is used
+### SMOTE is applied to Training set 
+![Class imbalance](screenshots/data_smote.png)
+# Technical Implementation
+### Text pre processing
+![Text preprocess]()
