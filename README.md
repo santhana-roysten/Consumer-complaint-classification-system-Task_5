@@ -18,4 +18,6 @@ Financial institutions receive thousands of consumer complaints daily. Automatin
 ![Data Overview](screenshots/data_head.png)
 # Class distribution challenge
 ### Visualization shows severe class imbalance across categories
+![Class imbalance](screenshots/data_distriu_graph.png)
+### Percentage for class imbalance across categories
 ![Class imbalance]()
