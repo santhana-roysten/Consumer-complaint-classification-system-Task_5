@@ -32,18 +32,21 @@ Financial institutions receive thousands of consumer complaints daily. Automatin
 - TF-IDF Vectorization: 5,000 most important features
 - Stratified Sampling: Maintained class proportions in train/test splits
 ### Model Selection
-Model Selection Strategy
 These selected two models are specifically suited for text classification:
-Logistic Regression - Optimal for high-dimensional text data
-Multinomial Naive Bayes - Classic baseline for text classification
+* Logistic Regression - Optimal for high-dimensional text data
+* Multinomial Naive Bayes - Classic baseline for text classification
 # Model Performance
+- Logistic Regression demonstrated superior performance with 91% accuracy, significantly outperforming the Naive Bayes baseline and effectively handling the class imbalance challenge.
 ### Detailed Evaluation:
 ![Model evaluation](screenshots/data_report.png)
-### Accuracy comparison
+### Accuracy comparison:
 ![accuracy comparison](screenshots/data_bar.png)
-### Confusion matrix
+- 
+### Confusion matrix:
 ![confusion matrix](screenshots/data_confusion_matrix.png)
 # Prediction system
-The system successfully classifies real world consumer complaints
-### Prediction system examples
-![prediction system]()
+- The system successfully classifies real world consumer complaints
+### Prediction system examples:
+![prediction system](screenshots/data_prediction.png)
+# Conclusion
+This project successfully demonstrates the application of machine learning for consumer complaint classification.
