@@ -12,4 +12,5 @@ Financial institutions receive thousands of consumer complaints daily. Automatin
 - Dataset size: 15 Lakhs or 1.5 million complaints
 - Time period: 3 month data
 - Final cleaned data: 1,17,590 complaints with complete narratives
-![Data Overview]()
+### Initial data shape
+![Data Overview](screenshots/data_shape.png)
